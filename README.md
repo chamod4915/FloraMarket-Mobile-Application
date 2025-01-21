@@ -38,4 +38,6 @@ This application transforms the traditional flower retail experience into a digi
 - **UI/UX Design**: Creation of intuitive and visually appealing interfaces.
 - **Project Management**: Implementation of Agile methodologies for iterative development.
 
+## ![LinkedIn Icon](https://example.com/animated-linkedin.gif) Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamod-thilina-6a8563249/details/projects/)
 
